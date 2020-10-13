@@ -1,0 +1,4 @@
+F:\STUDIES\STUDIES\NĂM 4\Web API\BAITAP_CÔĐIỆP\BaiKiemTra\BaiKiemTra\obj\Debug\BaiKiemTra_App.csprojAssemblyReference.cache
+F:\STUDIES\STUDIES\NĂM 4\Web API\BAITAP_CÔĐIỆP\BaiKiemTra\BaiKiemTra\obj\Debug\BaiKiemTra_App.csproj.CoreCompileInputs.cache
+F:\STUDIES\STUDIES\NĂM 4\Web API\BAITAP_CÔĐIỆP\BaiKiemTra\BaiKiemTra\obj\Debug\BaiKiemTra.dll
+F:\STUDIES\STUDIES\NĂM 4\Web API\BAITAP_CÔĐIỆP\BaiKiemTra\BaiKiemTra\obj\Debug\BaiKiemTra.pdb
